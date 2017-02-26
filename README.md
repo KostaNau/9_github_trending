@@ -1,6 +1,12 @@
 # Github Trends
 
-[TODO. There will be project description]
+## Description
+
+The script will show top 20 GitHub repositories created during the last week
+
+
+## Build with
++ [requests](http://docs.python-requests.org/en/master/) - for work with GitHub API.
 
 # Project Goals
 
